@@ -25,8 +25,8 @@ Optimized **friendly URLs, permission management, and pipeline enhancements** fo
 
 ## 🌎 Connect with Me
 
-- **Portfolio Website:** mariocodes.space(https://www.mariocodes.space/))
-- **LinkedIn:** (https://www.linkedin.com/in/mario-guillen-507575120)
+- **Portfolio Website:** https://www.mariocodes.space/
+- **LinkedIn:** https://www.linkedin.com/in/mario-guillen-507575120
 
 ---
 
