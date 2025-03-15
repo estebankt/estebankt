@@ -7,19 +7,14 @@ I'm a **Software Developer** specializing in **.NET, Sitecore, Elasticsearch, an
 ## 🔥 Featured Projects
 
 ### 🎵 TuneTask
-AI-powered task manager that integrates with **Spotify recommendations** and features **JWT authentication**.
+AI-powered task manager that integrates with **AI Semantic Search** and features **JWT authentication**.
 
-🔗 [GitHub Repository](https://github.com/yourusername/tunetask)
+🔗 [GitHub Repository](https://github.com/estebankt/tunetask)
 
 ### 🏗️ Sitecore Customizations
 Optimized **friendly URLs, permission management, and pipeline enhancements** for a better Sitecore experience.
 
-🔗 [GitHub Repository](https://github.com/yourusername/sitecore-customizations)
-
-### 🔍 AI Search
-Implemented **Elasticsearch autocomplete and embedding-powered search** for intelligent query matching.
-
-🔗 [GitHub Repository](https://github.com/yourusername/ai-search)
+🔗 [GitHub Repository](https://github.com/estebankt/sitecore-customizations)
 
 ## 🚀 Tech Stack
 
@@ -30,9 +25,8 @@ Implemented **Elasticsearch autocomplete and embedding-powered search** for inte
 
 ## 🌎 Connect with Me
 
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Portfolio Website:** [yourwebsite.com](https://yourwebsite.com)
-- **LinkedIn:** [yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- **Portfolio Website:** [[[mariocodes.space](https://www.mariocodes.space/))]]
+- **LinkedIn:** [(https://www.linkedin.com/in/mario-guillen-507575120)]
 
 ---
 
