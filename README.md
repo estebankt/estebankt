@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Software Developer** specializing in **.NET, Sitecore, Elasticsearch, and modern web technologies**. Passionate about **CQRS, AI-powered integrations, authentication security, and scalable web applications**, I focus on creating efficient and innovative solutions.
+I'm a **Software Developer** specializing in **.NET, Sitecore, Elasticsearch, and modern web technologies**. Passionate about **Backend, AI-powered integrations, authentication security, and scalable web applications**, I focus on creating efficient and innovative solutions.
 
 ## 🔥 Featured Projects
 
