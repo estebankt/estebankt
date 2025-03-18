@@ -18,10 +18,10 @@ Optimized **friendly URLs, permission management, and pipeline enhancements** fo
 
 ## 🚀 Tech Stack
 
-- **Languages:** C# (.NET), TypeScript
+- **Languages:** C# (.NET), TypeScript, Python
 - **Frameworks:** Next.js, Tailwind CSS
-- **Backend:** Sitecore, Elasticsearch, SQL Server, ADO.NET
-- **DevOps:** Docker, CI/CD, GitHub Actions
+- **Backend:** Sitecore, Elasticsearch, SQL Server, ADO.NET, PosgreSQL Solr, Mongo
+- **DevOps:** Docker, CI/CD, GitHub Actions, Azure Pipelines
 
 ## 🌎 Connect with Me
 
