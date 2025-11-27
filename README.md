@@ -6,10 +6,10 @@ I'm a **Software Developer** specializing in **.NET, Sitecore, Elasticsearch, an
 
 ## 🔥 Featured Projects
 
-### 🎵 TuneTask
-AI-powered task manager that integrates with **AI Semantic Search** and features **JWT authentication**.
+### 📸 🎵 SonoLens
+Turn your photos into playlists! SonoLens uses AI to analyze the mood of your images and instantly curates the perfect Spotify playlist to match the vibe, with an incorporated web player. Snap a pic, feel the music.
 
-🔗 [GitHub Repository](https://github.com/estebankt/tunetask)
+🔗 [GitHub Repository](https://github.com/estebankt/sonolens)
 
 ### 🏗️ Sitecore Customizations
 Optimized **friendly URLs, permission management, and pipeline enhancements** for a better Sitecore experience.
