@@ -11,10 +11,11 @@ Turn your photos into playlists! SonoLens uses AI to analyze the mood of your im
 
 🔗 [GitHub Repository](https://github.com/estebankt/sonolens)
 
-### 🏗️ Sitecore Customizations
-Optimized **friendly URLs, permission management, and pipeline enhancements** for a better Sitecore experience.
+### 💰🐻 SpendBear
+A robust personal finance management system built with Domain-Driven Design principles
 
-🔗 [GitHub Repository](https://github.com/estebankt/sitecore-customizations)
+BackEnd: 🔗 [GitHub Repository](https://github.com/estebankt/SpendBearBackEnd)
+FrontEnd: : 🔗 [GitHub Repository](https://github.com/estebankt/SpendBearFrontEnd)
 
 ## 🚀 Tech Stack
 
