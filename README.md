@@ -1,34 +1,35 @@
-# Welcome to My Developer Portfolio 🚀
+# Mario Guillén
 
-## About Me
+Senior .NET developer with a background in electronic engineering. I've spent the last 7 years building backend systems — mostly in C#, mostly for enterprise clients, and with a growing obsession for clean architecture (DDD, CQRS, event-driven patterns).
 
-I'm a **Software Developer** specializing in **.NET, Sitecore, Elasticsearch, and modern web technologies**. Passionate about **Backend, AI-powered integrations, authentication security, and scalable web applications**, I focus on creating efficient and innovative solutions.
-
-## 🔥 Featured Projects
-
-### 📸 🎵 SonoLens
-Turn your photos into playlists! SonoLens uses AI to analyze the mood of your images and instantly curates the perfect Spotify playlist to match the vibe, with an incorporated web player. Snap a pic, feel the music.
-
-🔗 [GitHub Repository](https://github.com/estebankt/sonolens)
-
-### 💰🐻 SpendBear
-A robust personal finance management system built with Domain-Driven Design principles
-
-BackEnd: 🔗 [GitHub Repository](https://github.com/estebankt/SpendBearBackEnd)
-FrontEnd: : 🔗 [GitHub Repository](https://github.com/estebankt/SpendBearFrontEnd)
-
-## 🚀 Tech Stack
-
-- **Frontend:** TypeScript, Next.JS, React, Tailwind CSS
-- **Backend:** C# (.NET), Python, Golang
-- **DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions, Azure, AWS
-- **CMS:** Sitecore, Contentful  
-
-## 🌎 Connect with Me
-
-- **Portfolio Website:** https://www.mariocodes.space/
-- **LinkedIn:** https://www.linkedin.com/in/mario-guillen-507575120
+Currently working on **SpendBear** and exploring AI/ML more seriously. Based in Ecuador 🇪🇨
 
 ---
 
-🚀 Always building something new!
+## Projects
+
+### SpendBear
+Personal finance app I'm building as a proper modular monolith — not a tutorial project. .NET 8, Next.js, PostgreSQL, Redis, Kafka, Auth0, and full OpenTelemetry observability. The kind of stack I'd pitch at work.
+
+- [Backend](https://github.com/estebankt/SpendBearBackEnd)
+- [Frontend](https://github.com/estebankt/SpendBearFrontEnd)
+
+### SonoLens
+Upload a photo, get a Spotify playlist. Uses multimodal AI to read the mood of an image and curate music to match. Has a built-in web player so you don't have to leave the page.
+
+- [GitHub](https://github.com/estebankt/sonolens)
+
+---
+
+## Stack
+
+**Day-to-day:** C# / .NET, TypeScript, Next.js, PostgreSQL, Redis  
+**Architecture:** DDD, CQRS, event-driven (Kafka), REST  
+**Infra:** Docker, Azure, GitHub Actions, Kubernetes  
+**Also used:** Python, Go, Sitecore, Contentful, Auth0  
+
+---
+
+## Links
+
+[mariocodes.space](https://www.mariocodes.space) · [LinkedIn](https://www.linkedin.com/in/mario-guillen-507575120) · [GitHub @estebankt](https://github.com/estebankt)
