@@ -32,4 +32,4 @@ Upload a photo, get a Spotify playlist. Uses multimodal AI to read the mood of a
 
 ## Links
 
-[mariocodes.space](https://www.mariocodes.space) · [LinkedIn](https://www.linkedin.com/in/mario-guillen-507575120) · [GitHub @estebankt](https://github.com/estebankt)
+[mariocodes.space](https://www.mariocodes.space) · [LinkedIn](https://www.linkedin.com/in/mario-guillen-507575120) 
